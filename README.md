@@ -10,4 +10,4 @@ but it may still have residuals from the project in the form of unnecessary/unus
 
 I used a mix of mui material and mui joy, cus mui joy components just look really nice, but also lack some of the features (or documentation) some mui mat components had
 
-![preview image]([http://url/to/img.png](https://github.com/hoch98/nice-looking-profile-ui/blob/main/preview.png?raw=true))
+![preview image](https://github.com/hoch98/nice-looking-profile-ui/blob/main/preview.png?raw=true)
