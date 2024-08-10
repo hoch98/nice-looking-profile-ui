@@ -1,0 +1,57 @@
+{
+  "id": "669ae27b36785cd20c28eb3a",
+  "handle": "hoch98",
+  "email": "dummyEmail1@gmail.com",
+  "realname": "john SMITH",
+  "displayname": "Hoch98",
+  "profile": {
+      "id": "669ae27b36785cd20c28eb3b",
+      "bio": "i like cats",
+      "userId": "669ae27b36785cd20c28eb3a",
+      "bannerColor": "#d58d57",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL9c6tDkR0Pg__uZbEfe9tOydjwE-8AInK3jyMOhU-sbWPEyCXW=s96-c"
+  },
+  "posts": [
+      {
+          "id": "66a45e667bf5bf978306d178",
+          "authorId": "669ae27b36785cd20c28eb3a",
+          "caption": "This should be my first post on this platform!!"
+      },
+      {
+          "id": "66a5d7fa42bd4e0a0b366e18",
+          "authorId": "669ae27b36785cd20c28eb3a",
+          "caption": "i like these orange cats"
+      },
+      {
+          "id": "66a60727e3cedcdbbb214d5f",
+          "authorId": "669ae27b36785cd20c28eb3a",
+          "caption": "cool song"
+      }
+  ],
+  "likedPosts": [
+      {
+          "id": "66a5eb2942bd4e0a0b366e5d",
+          "postId": "66a5d7fa42bd4e0a0b366e18",
+          "userId": "669ae27b36785cd20c28eb3a"
+      },
+      {
+          "id": "66a5eb2c42bd4e0a0b366e5e",
+          "postId": "66a45e667bf5bf978306d178",
+          "userId": "669ae27b36785cd20c28eb3a"
+      }
+  ],
+  "followers": [
+      {
+          "id": "66a5d1cd42bd4e0a0b366e16",
+          "followerId": "668ca978ad1b8b6aefc4ad1d",
+          "followingId": "669ae27b36785cd20c28eb3a"
+      }
+  ],
+  "following": [
+      {
+          "id": "66a5d1d942bd4e0a0b366e17",
+          "followerId": "669ae27b36785cd20c28eb3a",
+          "followingId": "668ca978ad1b8b6aefc4ad1d"
+      }
+  ]
+}

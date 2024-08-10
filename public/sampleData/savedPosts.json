@@ -1,0 +1,50 @@
+[
+  {
+      "id": "66a5d7fa42bd4e0a0b366e18",
+      "authorId": "669ae27b36785cd20c28eb3a",
+      "caption": "i like these orange cats",
+      "images": [
+          {
+              "id": "66a5d7fb42bd4e0a0b366e19",
+              "url": "https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg",
+              "postId": "66a5d7fa42bd4e0a0b366e18",
+              "authorId": "669ae27b36785cd20c28eb3a",
+              "author": {
+                  "id": "669ae27b36785cd20c28eb3a",
+                  "handle": "craftyun83",
+                  "displayname": "CY83"
+              }
+          }
+      ],
+      "comments": [
+          {
+              "id": "66a5d80642bd4e0a0b366e1b",
+              "postId": "66a5d7fa42bd4e0a0b366e18",
+              "authorId": "669ae27b36785cd20c28eb3a",
+              "content": "like if agree",
+              "author": {
+                  "id": "669ae27b36785cd20c28eb3a",
+                  "handle": "craftyun83",
+                  "email": "craftyun83@gmail.com",
+                  "realname": "H Y",
+                  "displayname": "CY83"
+              },
+              "likes": []
+          }
+      ],
+      "likes": [
+          {
+              "id": "66a5eb2942bd4e0a0b366e5d",
+              "postId": "66a5d7fa42bd4e0a0b366e18",
+              "userId": "669ae27b36785cd20c28eb3a"
+          }
+      ],
+      "saves": [
+          {
+              "id": "66a5d9cc42bd4e0a0b366e22",
+              "postId": "66a5d7fa42bd4e0a0b366e18",
+              "userId": "669ae27b36785cd20c28eb3a"
+          }
+      ]
+  }
+]
